@@ -13,7 +13,7 @@ Feel free to open [Image Classifier code notebook](image-classifier-with-tensorf
 - Use Transfer Learning to build VGG16-based ConvNet
 
 ## Dataset
-All images are organized inside `data` directory in train and validation sets. Inside each of sets there subdirectories according to the classes, like in the schema below:
+All images are organized inside `data` directory in train and validation sets. Inside each set there are subdirectories according to the classes, like in the schema below:
 
 ```
 ./data/
