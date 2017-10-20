@@ -4,7 +4,7 @@ This is a Jupyter notebook with example of training an Image Classifier when the
 
 Training images are the photos of either exterior or interior of the buildings. Image Classifier should discriminate between these 2 classes.
 
-Feel free to open [Image Classifier code notebook](image-classifier-with-tensorflow.ipynb) to check the details about code.
+Feel free to open [Image Classifier code notebook](image-classifier-with-tensorflow.ipynb) to check the details about the code.
 
 
 ## Notebook Content
